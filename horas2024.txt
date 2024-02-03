@@ -8,4 +8,4 @@
 31/ene 10911 [OEA] [GARANTÍA PES] CC Campos Obligatorios Formulario Apertura Evaluación de Desempeño  https://alfapeopleco.visualstudio.com/Tecnolog%C3%ADa%20AP%20Colombia/_workitems/edit/10911/
 01/feb 10928 [OEA] [GARANTÍA PES] - Ajuste creación formulario statement accomplishment
 	   10929 [OEA] [GARANTÍA PES] - Ajuste creación campo evaluation clasification
-02/feb incidente ER cambio estado Aprobado/Rechazado
+02/feb incidente ER cambio estado Aprobado/Rechazado 9 horas
